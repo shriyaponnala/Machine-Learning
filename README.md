@@ -1,1 +1,1 @@
-#Projects on  Machine Learning concepts
+#Projects based on  Machine Learning concepts
